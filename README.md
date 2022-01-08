@@ -1,0 +1,2 @@
+# rpg-javarush
+Стажировка Javarush
